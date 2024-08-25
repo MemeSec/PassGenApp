@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 ## Password Generator App Made With KivyMD
-## GITHUB: https://github.com/kozyol
+## GITHUB: https://github.com/Kourva
 
 # Imports
 from sys import exit
